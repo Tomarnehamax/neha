@@ -1,4 +1,4 @@
-# neha 
+# sum of digits
 
 def digsum(n):
   sum=0
